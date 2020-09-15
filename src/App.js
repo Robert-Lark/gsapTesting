@@ -8,6 +8,7 @@ function App() {
 
   return (
 		<div className="App">
+			<p>Welcome Tto GSAPTEST</p>
 			<GSAPComponentTextColorChange />
       <MovingAnElement/>
 		</div>
